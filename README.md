@@ -182,7 +182,7 @@ While other tools give you a plain text dump, SidekickWriter exports to:
 |------|---------|--------|--------------|
 | **Free** | $0 | $0 | Lite AI model, 1,000 word max output, TXT/MD export, share links |
 | **Starter** | $12/mo | $120/yr | Pro Deep Thinking model, DOCX/EPUB export, custom writing styles |
-| **Plus** | $24/mo | $240/yr | 24× usage vs Free, Auto Deep Search & Citations |
+| **Plus** | $23/mo | $230/yr | 23× usage vs Free, Auto Deep Search & Citations |
 | **Pro** | $99/mo | $990/yr | 100× usage, dedicated support, early access to new features |
 | **Agency** | $199/mo | $1,990/yr | 200× usage, everything in Pro |
 
